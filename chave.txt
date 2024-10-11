@@ -1,0 +1,1 @@
+A chave criptográfica é "abcdefghijklmnop"
